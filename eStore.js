@@ -123,4 +123,4 @@ function checkout() {
 // Start the application
 console.log("Welcome to Hay-squared store, We deal in all kinds of Automobiles.");
 showMenu();
-promptUser()
+promptUser();
